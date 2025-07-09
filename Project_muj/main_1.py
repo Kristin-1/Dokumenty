@@ -56,9 +56,5 @@ film_4 = {
       "David Bowie"
     )
 }
-film = {
-    film_1["JMENO"]: film_1
-    film_2["JMENO"]: film_2
-    film_3["JMENO"]: film_3
-    film_4["JMENO"]: film_4
-}
+print(uzivatele)
+print(film_1)
